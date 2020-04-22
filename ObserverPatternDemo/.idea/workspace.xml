@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8547cd17-74cb-44ad-919c-5c9ed6b1cc10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BridgePatternDemo/out/production/BridgePatternDemo/BridgePatternDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BridgePatternDemo/out/production/BridgePatternDemo/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BridgePatternDemo/out/production/BridgePatternDemo/DrawApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BridgePatternDemo/out/production/BridgePatternDemo/GreenCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BridgePatternDemo/out/production/BridgePatternDemo/RedCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BridgePatternDemo/out/production/BridgePatternDemo/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPatternDemo/out/production/BuilderPatternDemo/BuilderPatternDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPatternDemo/out/production/BuilderPatternDemo/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPatternDemo/out/production/BuilderPatternDemo/Director.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPatternDemo/out/production/BuilderPatternDemo/IBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPatternDemo/out/production/BuilderPatternDemo/MotorCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuilderPatternDemo/out/production/BuilderPatternDemo/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommandPatternDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacadePatternDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacadePatternDemo/FacadePatternDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPatternDemo/out/production/IteratorPatternDemo/Container.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPatternDemo/out/production/IteratorPatternDemo/Iterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPatternDemo/out/production/IteratorPatternDemo/IteratorPatternDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPatternDemo/out/production/IteratorPatternDemo/NameRepository$NameIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IteratorPatternDemo/out/production/IteratorPatternDemo/NameRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPatternDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HexaObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandPatternDemoLights/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FacadePatternDemo/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1atefTQeWfKCFJcOsXcriI75k5X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ObserverPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObserverPatternDemo" />
+      <module name="ObserverPatternDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ObserverPatternDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8547cd17-74cb-44ad-919c-5c9ed6b1cc10" name="Default Changelist" comment="" />
+      <created>1587559420421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587559420421</updated>
+      <workItem from="1587559421943" duration="1322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1587560577121">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="653" y="244" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1587560577121" />
+  </component>
+</project>
